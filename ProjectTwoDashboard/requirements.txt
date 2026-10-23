@@ -1,0 +1,9 @@
+# Versions verified in the CS-340 Codio course environment (Python 3.11.2).
+dash==2.8.1
+jupyter-dash==0.4.2
+dash-leaflet==0.1.23
+plotly==5.14.1
+pymongo==4.13.2
+# Dash 2.8 predates the Flask 3 / Werkzeug 3 compatibility changes.
+Flask>=2.2,<2.3
+Werkzeug>=2.2,<2.3
