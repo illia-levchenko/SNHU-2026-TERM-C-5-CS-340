@@ -1,0 +1,22 @@
+test_category_change_replaces_records_and_resets_old_table_state (test_dashboard.CallbackBehaviorTests.test_category_change_replaces_records_and_resets_old_table_state) ... ok
+test_initial_view_and_native_filtered_view_have_correct_chart_totals (test_dashboard.CallbackBehaviorTests.test_initial_view_and_native_filtered_view_have_correct_chart_totals) ... ok
+test_native_empty_filter_stays_empty_in_chart_map_and_count (test_dashboard.CallbackBehaviorTests.test_native_empty_filter_stays_empty_in_chart_map_and_count) ... ok
+test_reset_clears_category_column_filters_sort_page_and_selection (test_dashboard.CallbackBehaviorTests.test_reset_clears_category_column_filters_sort_page_and_selection) ... ok
+test_breed_aggregation_preserves_total_including_unknown_and_other (test_dashboard.DataAndSelectionTests.test_breed_aggregation_preserves_total_including_unknown_and_other) ... ok
+test_coordinates_are_named_finite_and_in_range (test_dashboard.DataAndSelectionTests.test_coordinates_are_named_finite_and_in_range) ... ok
+test_duplicate_animal_ids_remain_distinct_rows (test_dashboard.DataAndSelectionTests.test_duplicate_animal_ids_remain_distinct_rows) ... ok
+test_figure_uses_all_filtered_rows_not_a_single_table_page (test_dashboard.DataAndSelectionTests.test_figure_uses_all_filtered_rows_not_a_single_table_page) ... ok
+test_json_values_are_serializable_and_nonfinite_numbers_are_empty (test_dashboard.DataAndSelectionTests.test_json_values_are_serializable_and_nonfinite_numbers_are_empty) ... ok
+test_missing_location_does_not_create_a_false_marker (test_dashboard.DataAndSelectionTests.test_missing_location_does_not_create_a_false_marker) ... ok
+test_selected_row_coordinates_drive_map_after_sort (test_dashboard.DataAndSelectionTests.test_selected_row_coordinates_drive_map_after_sort) ... ok
+test_selection_survives_sort_and_filters_by_identity (test_dashboard.DataAndSelectionTests.test_selection_survives_sort_and_filters_by_identity) ... ok
+test_crud_receives_category_query_and_connection_always_closes (test_dashboard.DatabaseBoundaryTests.test_crud_receives_category_query_and_connection_always_closes) ... ok
+test_empty_results_are_verified_and_read_failures_are_not_hidden (test_dashboard.DatabaseBoundaryTests.test_empty_results_are_verified_and_read_failures_are_not_hidden) ... ok
+test_all_reads_entire_collection (test_dashboard.RescueRuleTests.test_all_reads_entire_collection) ... ok
+test_every_required_breed_and_documented_mix_handling (test_dashboard.RescueRuleTests.test_every_required_breed_and_documented_mix_handling) ... ok
+test_inclusive_age_limits_and_required_sex_for_each_category (test_dashboard.RescueRuleTests.test_inclusive_age_limits_and_required_sex_for_each_category) ... ok
+
+----------------------------------------------------------------------
+Ran 17 tests in 2.070s
+
+OK
